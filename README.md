@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2022 <br>
-📚 I'm currently learning Next.js & TypeScript <br>
-🎯 Goals: To become a full-stack developer and build scalable apps <br>
-🎲 Fun fact: I debug faster with coffee ☕
+🤝 I'm looking to collaborate on MERN stack and exciting frontend projects <br>
+📫 How to reach me: <a href="mailto:tahaarshad787@gmail.com">tahaarshad787@gmail.com</a> <br>
+💬 Ask me about: Frontend development, React, and UI/UX <br>
+⚡ Fun fact: I debug faster with coffee ☕
 </p>
 
 ###
@@ -52,9 +52,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devi
